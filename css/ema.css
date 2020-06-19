@@ -1,0 +1,24 @@
+html {
+    background-color: #CC6633;
+    font-family: "Fira Mono",Monaco,"Andale Mono","Lucida Console","Bitstream Vera Sans Mono","Courier";
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;
+  }
+  
+  .slider {
+    margin: 10px;
+    width: 400px;
+    height: 16px;
+    background: rgba(0,0,0,.3);
+    position: relative;
+  }
+  
+  .slider_indicator {
+    width: 16px;
+    height: 16px;
+    background: #000;
+    position: absolute;
+  }
